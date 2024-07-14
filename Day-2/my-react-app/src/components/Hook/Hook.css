@@ -1,0 +1,12 @@
+.click-box{
+    padding: 50px 100px;
+    background: #ffffff;
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.click-box h1{
+    color: black;
+}

@@ -1,0 +1,11 @@
+.header-container{
+    display: flex;
+    flex-wrap: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+.img{
+    max-width: 800px;
+    height: 400px;
+}

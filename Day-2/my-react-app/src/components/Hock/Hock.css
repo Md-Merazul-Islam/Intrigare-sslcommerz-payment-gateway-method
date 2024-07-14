@@ -1,0 +1,10 @@
+.box-click{
+ color: rgb(0, 0, 0);
+ background: #ffffff;
+ max-width: 400px;
+ margin: auto;
+ padding: 50px 100px;
+ border-radius: 10px;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
