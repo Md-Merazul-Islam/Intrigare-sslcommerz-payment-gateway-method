@@ -34,7 +34,7 @@
 
 
 
-8. #### index.css
+8. #### index.css  📂src Folder
   
         @tailwind base;
         @tailwind components;
