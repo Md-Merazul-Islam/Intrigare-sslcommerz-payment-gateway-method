@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless Bluetooth headphones with noise-cancellation.",
+      "price": 59.99,
+      "category": "Electronics",
+      "stock": 150,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "rating": 5,
+          "comment": "Excellent sound quality and comfortable to wear."
+        },
+        {
+          "reviewer": "Jane Smith",
+          "rating": 4,
+          "comment": "Good value for the price, but battery life could be better."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Smartphone with 5G",
+      "description": "Latest model smartphone with 5G connectivity and high-resolution camera.",
+      "price": 699.99,
+      "category": "Electronics",
+      "stock": 80,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Alice Johnson",
+          "rating": 5,
+          "comment": "Amazing phone with a fantastic camera and fast performance."
+        },
+        {
+          "reviewer": "Bob Brown",
+          "rating": 4,
+          "comment": "Great phone, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "description": "Lightweight and comfortable running shoes for all types of terrain.",
+      "price": 89.99,
+      "category": "Sports",
+      "stock": 200,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "reviewer": "Emily Davis",
+          "rating": 4,
+          "comment": "Comfortable shoes, but the size runs a bit small."
+        },
+        {
+          "reviewer": "Michael Wilson",
+          "rating": 5,
+          "comment": "Perfect for my daily runs, very durable and lightweight."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Eco-friendly stainless steel water bottle with a 1-liter capacity.",
+      "price": 19.99,
+      "category": "Home & Kitchen",
+      "stock": 300,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Jessica Lee",
+          "rating": 5,
+          "comment": "Keeps my water cold all day, highly recommend!"
+        },
+        {
+          "reviewer": "David Martinez",
+          "rating": 4,
+          "comment": "Good bottle, but the cap could be easier to open."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with extra cushioning for comfort.",
+      "price": 29.99,
+      "category": "Fitness",
+      "stock": 120,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Laura Moore",
+          "rating": 5,
+          "comment": "Perfect thickness and great grip, love it!"
+        },
+        {
+          "reviewer": "Kevin Taylor",
+          "rating": 4,
+          "comment": "Good mat, but it has a slight odor when new."
+        }
+      ]
+    }
+  ]
+  

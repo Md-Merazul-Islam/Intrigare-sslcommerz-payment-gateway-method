@@ -1,0 +1,10 @@
+.user-div{
+    padding: 20px 50px ;
+    border: 2px solid rebeccapurple;
+    /* margin: 5px; */
+    background: #075bb4;
+}
+/* .all-user{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+} */
